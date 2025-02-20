@@ -27,4 +27,8 @@ Fun Facts 🌱 I’m currently learning about DSA. <br/>
 💬 Ask me about web development, cloud computing, and DevOps.  <br/>
 ⚡ Fun fact: I love hiking and exploring new trails. How to Reach Me Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! I'm always open to connecting with new people and exploring new opportunities.
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>

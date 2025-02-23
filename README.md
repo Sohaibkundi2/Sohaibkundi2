@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sohaib! 👋 <br>About Me I'm a passionate developer with a keen interest in software development and web designing. I enjoy learning new technologies and applying them to solve real-world problems.
+Hi there, I'm Sohaib! 👋 <br>I'm a passionate developer with a keen interest in software development and web designing. I enjoy learning new technologies and applying them to solve real-world problems.
 
 Skills Languages: JavaScript, C++ Frameworks and Libraries: React, Node.js, Express, Django Tools and Platforms: GitHub, AWS, vs Code Databases: MongoDB, MySQL GitHub Stats Sohaibkundi2's GitHub stats
 
@@ -15,7 +15,7 @@ Skills Languages: JavaScript, C++ Frameworks and Libraries: React, Node.js, Expr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-Fun Facts 🌱 I’m currently learning about DSA. <br/>
+Fun Facts <br/>🌱 I’m currently learning about DSA. <br/>
 👯 I’m looking to collaborate on open-source projects.  <br/>
 💬 Ask me about web development, cloud computing, and DevOps.  <br/>
 ⚡ Fun fact: I love hiking and exploring new trails. How to Reach Me Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! I'm always open to connecting with new people and exploring new opportunities.

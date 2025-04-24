@@ -1,7 +1,11 @@
 # 💫 About Me:
 Hi there, I'm Sohaib! 👋 <br>I'm a passionate developer with a keen interest in software development and web designing. I enjoy learning new technologies and applying them to solve real-world problems.
 
-Skills Languages: JavaScript, C++ Frameworks and Libraries: React, Node.js, Express, Django Tools and Platforms: GitHub, AWS, vs Code Databases: MongoDB, MySQL GitHub Stats Sohaibkundi2's GitHub stats
+Skills Languages: JavaScript, C++, OOPs <br/>
+Frameworks and Libraries: React, Node.js, Express,Framer, GSAP, Tailwand <br/>
+Tools and Platforms: Figma, Canva, Git, Cloadinary, GitHub, AWS, vs Code  <br/>
+Databases: MongoDB, MySQL, Postgress  <br/>
+GitHub Stats Sohaibkundi2's GitHub stats <br/>
 
 
 ## 🌐 Socials:

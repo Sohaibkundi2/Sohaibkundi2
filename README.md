@@ -1,28 +1,73 @@
-# 💫 About Me:
-Hi there, I'm Sohaib! 👋 <br>I'm a passionate developer with a keen interest in software development and web designing. I enjoy learning new technologies and applying them to solve real-world problems.
+<!-- Welcome Message -->
+<h1 align="center">✨ Welcome to My GitHub Space! ✨</h1>
+<h3 align="center">I'm Sohaib — a creative frontend developer from Pakistan 🇵🇰</h3>
 
-Skills Languages: JavaScript, C++, OOPs <br/>
-Frameworks and Libraries: React, Node.js, Express,Framer, GSAP, Tailwand <br/>
-Tools and Platforms: Figma, Canva, Git, Cloadinary, GitHub, AWS, vs Code  <br/>
-Databases: MongoDB, MySQL, Postgress  <br/>
-GitHub Stats Sohaibkundi2's GitHub stats <br/>
+---
 
+<!-- Banner Image (LinkedIn Cover or Custom Banner) -->
+<p align="center">
+  <img src="./banner.jpg" alt="Sohaib's Banner" width="100%" />
+</p>
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sohaib-khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaibkundi2@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
 
+### 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+- 🔭 Currently working on **React Projects** & learning **Full Stack Web Development**
+- 🌱 Focused on: `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`
+- 🎯 Goal: Becoming a productive & professional remote developer
+- ✨ Passionate about clean UI, animations, and user experience
+- ⚡ Fun fact: I debug better with chai ☕ and calm lo-fi beats 🎧
 
-⚡ Fun fact: </br> I love hiking and exploring new trails. How to Reach Me Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi! I'm always open to connecting with new people and exploring new opportunities.
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode" alt="Tech stack" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaibkundi2&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibkundi2&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohaibkundi2&theme=tokyonight&column=4&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibkundi2&theme=tokyo-night" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <!-- Replace # with your actual profile links -->
+  <a href="www.linkedin.com/in/sohaibkundi2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://portfolio-alpha-lilac-71.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Quote for You
+
+> _“Code is not just code, it’s a story waiting to be told.”_
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohaibkundi2&style=flat-square&color=blue" alt="Profile Views"/>
+</p>

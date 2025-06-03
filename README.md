@@ -1,6 +1,5 @@
 <!-- Welcome Message -->
-<h1 align="center">✨ Welcome to My GitHub Space! ✨</h1>
-<h3 align="center">I'm Sohaib — a creative frontend developer from Pakistan 🇵🇰</h3>
+<h1 align="center">✨ Welcome to My <h3 align="center"><em>I'm Sohaib</em> 👨‍💻 — powering web apps with <em>Node.js</em> & <em>MongoDB</em> ⚡🗃️, with a passion for clean UI 🎨</h3>
 
 ---
 

@@ -1,5 +1,19 @@
+
 <!-- Welcome Message -->
-<h1 align="center">✨ Welcome to My <h3 align="center"><em>I'm Sohaib</em> 👨‍💻 — powering web apps with <em>Node.js</em> & <em>MongoDB</em> ⚡🗃️, with a passion for clean UI 🎨</h3>
+<h1 align="center">🚀 Hey there, Explorer! 👋</h1>
+<h3 align="center">
+  I'm <em>Sohaib Khan</em> 🌐 — a passionate <strong>Full Stack Developer</strong> 💻 <br />
+  who brings ideas to life with <strong>Node.js</strong> ⚙️, <strong>MongoDB</strong> 🛢️, and <strong>GSAP</strong> 🎞️.
+</h3>
+
+<p align="center">
+  ✨ I love crafting stunning UIs 🎨, building smooth animations 🌀, and learning cool tech every day 📚💡
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&lines=💥+Front-end+Focused;🔥+Back-end+Ready;🛠️+Always+Improving;🌍+Building+for+the+Web!" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -12,19 +26,35 @@
 
 
 ### 👨‍💻 About Me
+```js
+"use creativity";
+import { Developer } from 'pakistan';
 
-- 🔭 Currently working on **React Projects** & learning **Full Stack Web Development**
-- 🌱 Focused on: `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`
-- 🎯 Goal: Becoming a productive & professional remote developer
-- ✨ Passionate about clean UI, animations, and user experience
-- ⚡ Fun fact: I debug better with chai ☕ and calm lo-fi beats 🎧
+new Developer({
+  name    : 'Sohaib Khan',
+  title   : 'Full Stack Web Developer',
+  email   : 'sohaibkundi2@gmail.com',
+  website : 'github.com/sohaibkundi2',
+  skills  : ['React', 'Node.js', 'MongoDB', 'GSAP', 'SwiperJS', 'C++'],
+}).introduce();
+
+D:\Sohaib_Khan> node index.js
+Hi, my name is Sohaib Khan — I'm a Full Stack Web Developer from Pakistan 🇵🇰.
+I love building beautiful UIs, animations, and powerful web apps 🚀✨.
+```
+
+- 🌱 I’m currently focused on **Frontend Projects, JavaScript Frameworks, and Animations**
+- 🧠 Passionate about **beautiful UI**, **smooth user experience**, and **performance**
+- 🛠️ Currently working with **React**, **GSAP**, **Swiper.js**, and **Tailwind CSS**
+- 📚 I’m on a **36-week coding challenge** to level up across the full stack
+- 💼 Open to internships, freelance work, and collaboration opportunities
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,cpp,postman" alt="Tech stack" />
 </p>
 
 ---
@@ -47,6 +77,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibkundi2&theme=tokyo-night" />
 </p>
+
 
 ---
 

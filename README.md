@@ -15,9 +15,7 @@
 </p>
 
 
----<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight&v=2" />
-</p>
+
 
 
 <!-- Banner Image (LinkedIn Cover or Custom Banner) -->
@@ -68,13 +66,12 @@ I love building beautiful UIs, animations, and powerful web apps 🚀✨.
   <img src="https://github-readme-stats.vercel.app/api?username=sohaibkundi2&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibkundi2&theme=tokyonight" height="180"/>
 </p>
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight&v=2" />
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohaibkundi2&theme=tokyonight&column=4&no-frame=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohaibkundi2&theme=tokyo-night" />
 </p>

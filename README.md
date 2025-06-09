@@ -15,7 +15,10 @@
 </p>
 
 
----
+---<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight&v=2" />
+</p>
+
 
 <!-- Banner Image (LinkedIn Cover or Custom Banner) -->
 <p align="center">
@@ -35,7 +38,7 @@ new Developer({
   title   : 'Full Stack Web Developer',
   email   : 'sohaibkundi2@gmail.com',
   website : 'github.com/sohaibkundi2',
-  skills  : ['React', 'Node.js', 'MongoDB', 'GSAP', 'SwiperJS', 'C++'],
+  skills  : ['React', 'Node.js', 'MongoDB',  'Express.js 🚂', 'GSAP', 'C++'],
 }).introduce();
 
 D:\Sohaib_Khan> node index.js
@@ -66,9 +69,7 @@ I love building beautiful UIs, animations, and powerful web apps 🚀✨.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibkundi2&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohaibkundi2&theme=tokyonight&column=4&no-frame=true" />

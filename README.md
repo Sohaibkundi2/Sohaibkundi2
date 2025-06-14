@@ -35,8 +35,8 @@ new Developer({
   name    : 'Sohaib Khan',
   title   : 'Full Stack Web Developer',
   email   : 'sohaibkundi2@gmail.com',
-  website : 'github.com/sohaibkundi2',
-  skills  : ['React', 'Node.js', 'MongoDB',  'Express.js 🚂', 'GSAP', 'C++'],
+  website : 'shrtit.tech',
+  skills  : ['React', 'Node.js', 'MongoDB',  'Express.js', 'GSAP', 'C++'],
 }).introduce();
 
 D:\Sohaib_Khan> node index.js

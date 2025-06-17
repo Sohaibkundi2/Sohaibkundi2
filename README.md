@@ -78,8 +78,28 @@ I love building beautiful UIs, animations, and powerful web apps 🚀✨.
 
 
 ---
+## 🚀 Featured Projects
 
-### 🌐 Connect with Me
+<div align="center">
+
+### 🔗 URL Shortener (Full Stack SaaS)
+[![Demo](https://img.shields.io/badge/LIVE_DEMO-38BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://shrtit.tech)
+[![Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaibkundi2/url-shortener)
+
+```javascript
+// Tech Stack
+const tech = {
+  frontend: ["React", "Tailwind CSS", "GSAP"],
+  backend: ["Node.js", "Express", "JWT"],
+  database: "MongoDB",
+  features: ["Custom URLs", "Analytics Dashboard", "Rate Limiting"]
+};
+```
+</div>
+
+
+
+## 🌐 Connect with Me
 
 <p align="center">
   <!-- Replace # with your actual profile links -->
@@ -90,7 +110,7 @@ I love building beautiful UIs, animations, and powerful web apps 🚀✨.
 
 ---
 
-### 💬 Quote for You
+## 💬 Quote for You
 
 > _“Code is not just code, it’s a story waiting to be told.”_
 

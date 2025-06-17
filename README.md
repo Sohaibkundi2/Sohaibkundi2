@@ -82,7 +82,7 @@ I love building beautiful UIs, animations, and powerful web apps 🚀✨.
 
 <div align="center">
 
-### 🔗 URL Shortener (Full Stack SaaS)
+### 🔗 URL Shortener (MERN Stack)
 [![Demo](https://img.shields.io/badge/LIVE_DEMO-38BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://shrtit.tech)
 [![Code](https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaibkundi2/url-shortener)
 

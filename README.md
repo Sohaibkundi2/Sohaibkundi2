@@ -74,7 +74,8 @@ Hi, I’m Sohaib from Pakistan 🇵🇰 — I enjoy building beautiful UIs, smoo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibkundi2&theme=tokyonight" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight&v=2" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibkundi2&layout=compact&theme=tokyonight&v=5" />
+
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sohaibkundi2&theme=tokyonight&column=4&no-frame=true" />
